@@ -1,0 +1,18 @@
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+.counter-container{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
