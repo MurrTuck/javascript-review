@@ -551,3 +551,13 @@ let darthVader = new Heros("Darth Vader", 'Menacing, lovely voice', true)
 
 //My questions - 
 //Make sure we cover SCOPE
+
+//Practicing For Loops
+
+let murrArr = [123, 543, 6785, 765, 896, 9907]
+
+function tester(murrArr) {
+    for (let i = 0; i < murrArr.length; i++) {
+        console.log(i)
+    }
+}

@@ -19,3 +19,7 @@ function clearCount() {
     count = 0
     countDisplay.innerText = count
 }
+
+
+//Practicing For Loops
+
